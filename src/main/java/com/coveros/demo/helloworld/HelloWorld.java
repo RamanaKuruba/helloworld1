@@ -35,6 +35,7 @@ public class HelloWorld {
     /* ... */
     return;      // Noncompliant - prevents the RuntimeException from being propagated
   }
+  }
   
 
 }
